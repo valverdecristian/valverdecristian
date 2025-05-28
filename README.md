@@ -29,3 +29,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="ANGULAR" width="40" height="40"/>
     </div>
 </div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valverdecristian&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valverdecristian&layout=compact&theme=github_dark" alt="Lenguajes más usados"/>
+</div>
